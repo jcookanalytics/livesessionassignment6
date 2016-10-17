@@ -1,0 +1,8 @@
+Conclusion
+
+From this study of Staten Island, New York properties sold in the last 12 months, we were able to establish a visual correlation in family homes between the sale price and the gross square footage on both a Cartesian and a log-log scales.  Further analysis (least squares lines) would be needed to determine which relationship is better (i.e., has a higher correlation coefficient).
+ 
+
+
+
+

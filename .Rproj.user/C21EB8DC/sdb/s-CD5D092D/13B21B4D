@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#######################################################################################\n#\n#  This file is used to perform the data gathering and analysis of the Staten Island\n#      housing data\n#\n#######################################################################################\n\n#\n# Please replace the xxx with your directory path\n#\n\n#setwd(\"xxx/StatenIslandHousing\")\n\n\nsource(\"gather.R\")\nsource(\"analysis/analyze.R\")\n\n\n\n\n\n\n\n\n\n\n",
+    "created" : 1476663894309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "296093901",
+    "id" : "13B21B4D",
+    "lastKnownWriteTime" : 1476663909,
+    "last_content_update" : 1476663909632,
+    "path" : "~/MASTERS/DoingDataScience/livesessionassignment6/StatenIslandHousing/Data/MakeFile.R",
+    "project_path" : "StatenIslandHousing/Data/MakeFile.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
