@@ -1,0 +1,43 @@
+﻿Conclusion
+
+ from this study of Staten Island, New York properties 
+sold in the last 12 months, we were able to establish a visual 
+correlation in family homes between the sale price and the gross 
+square footage on both a Cartesian and a log-log scales.  Further 
+analysis (least squares lines) would be needed to determine which 
+relationship is better (i.e., has a higher correlation coefficient).
+ 
+
+
+
+
+
+
+*Brian Yu
+From further analysis of the data, we observed outliers existing
+in homes sold for less than $100,000 and homes with less than 100 sqft.
+A visual correlation seems to exist between the sale price and gross
+living square footage. Delving further into the data, we separated out
+the data by building class category types (one, two, and three family homes).
+From the scatter plot that is grouped by building category (ggplot function),
+there appears to be differences in observation densities per building
+category. Due to overplotting of the data points, we separated out each 
+building class category groups into it's own scatter plot. Next, we
+calculated the correlation coefficients per building category with the 
+following results:
+
+One family dwelling homes: 0.69
+Two family dwelling homes: 0.55
+Three family dwelling homes 0.63
+
+A linear relationship appears to exist even when separating the data by 
+building category.
+
+Digging further into the analysis, we wanted to check if there were any
+patterns in regards to sale prices versus zip codes per building class
+category. From all three box plots for the three building class category,
+the following conclusion was generated.The lowest mean sale price for one 
+and two family dwelling homes was zip code 10303. Zip code 10302 has the 
+lowest mean sale price for three family dwelling homes. For the highest 
+mean sale prices for each one, two and three family homes,all zip codes 
+were different; 10309, 10307, and 10306, respectively.
